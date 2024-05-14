@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Ej13Test.FacturaTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.057 s <<< FAILURE! - in Ej13Test.FacturaTest
-Ej13Test.FacturaTest.testAplicarIva  Time elapsed: 0.007 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: Precio con IVA calculado incorrectamente ==> expected: <33.0> but was: <11.0>
-	at Ej13Test.FacturaTest.testAplicarIva(FacturaTest.java:45)
-
